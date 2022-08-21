@@ -1,2 +1,2 @@
 # Binary-Tree
-The first course work of the course "Computer technology" of the third semester
+Реализована структура данных "Бинарное дерево" и итератор по ней
